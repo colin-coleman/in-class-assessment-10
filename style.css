@@ -77,6 +77,11 @@ strong{
   color: white;
 }
 
+em {
+  font-style: italic;
+  color: white;
+}
+
 a {
   color: #f25042;
   text-decoration: none;
