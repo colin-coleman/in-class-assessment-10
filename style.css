@@ -44,9 +44,29 @@ main{
   margin: 0 25px 100px 25px;
 }
 
+h1 {
+  font-size: 36px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  margin-bottom: 10px;
+}
+
+img{
+ width: 100%;
+  height: auto;
+  border-radius: 10px 10px 10px 10px;
+}
+  
+
 p {
   text-align: justify;
   padding: 15px 0;
+}
+
+strong{
+  font-weight: bold;
+  color: white;
 }
 
 a {
