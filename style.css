@@ -43,3 +43,19 @@ main{
   width: 500px;
   margin: 0 25px 100px 25px;
 }
+
+p {
+  text-align: justify;
+  padding: 15px 0;
+}
+
+a {
+  color: #f25042;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #f25f4c;
+  text-decoration: none;
+}
+
