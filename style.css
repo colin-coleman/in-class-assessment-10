@@ -52,12 +52,18 @@ h1 {
   margin-bottom: 10px;
 }
 
-img{
+.image{
  width: 100%;
   height: auto;
   border-radius: 10px 10px 10px 10px;
 }
-  
+
+.scary{
+ position: sticky;  
+   float: right; 
+  width: 100%;
+  height: auto;
+}
 
 p {
   text-align: justify;
