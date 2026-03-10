@@ -7,7 +7,7 @@
 html{
   background-color: #0f0e17;
   font-family: Arial, sans-serif;
-  font-size: 20px;
+  font-size: 16px;
   color: #a7a9be;
   line-height: 1.5;
 }
@@ -41,5 +41,5 @@ main{
       position: relative;
   top: 80px;
   width: 500px;
-  margin: 25px 25px 100px 25px;
+  margin: 0 25px 100px 25px;
 }
