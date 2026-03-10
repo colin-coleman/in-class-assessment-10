@@ -40,7 +40,7 @@ nav a{
 main{
       position: relative;
   top: 80px;
-  width: 500px;
+ 
   margin: 0 25px 100px 25px;
 }
 
@@ -53,21 +53,23 @@ h1 {
 }
 
 .image{
- width: 100%;
+  width: 500px;
   height: auto;
   border-radius: 10px 10px 10px 10px;
 }
 
-.scary{
+.sticky{
  position: sticky;  
    float: right; 
-  width: 100%;
+  width: 300px;
   height: auto;
+     top: 250px;
 }
 
 p {
   text-align: justify;
   padding: 15px 0;
+     width: 500px;
 }
 
 strong{
@@ -84,4 +86,3 @@ a:hover{
   color: #f25f4c;
   text-decoration: none;
 }
-
