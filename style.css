@@ -13,10 +13,33 @@ html{
 }
 
 header{
+  width: 100vw;
   text-decoration: none;
   background-color: #f25042;
-  padding: 14px 16px;
+  padding: 10px;
   color: white;
   position: fixed;
   display: inline;
+  text-transform: uppercase;
+  text-align: right;
+   z-index: 10; 
+}
+
+nav a{
+  padding: 0 10px;
+  display: inline;
+  color: white;
+  text-decoration: none;
+}
+
+.title {
+  font-weight: bold;
+  float: left;
+}
+
+main{
+      position: relative;
+  top: 80px;
+  width: 500px;
+  margin: 25px 25px 100px 25px;
 }
